@@ -1,0 +1,255 @@
+{
+	"blobcat": {
+		"type": "image",
+		"container": [
+			{
+				"text": "aheart",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/ablobcatheart.png'>"
+			},
+			{
+				"text": "heartbroken",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/ablobcatheartbroken.png'>"
+			},
+			{
+				"text": "heart",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatheart.png'>"
+			},
+			{
+				"text": "heartpride",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatheartpride.png'>"
+			},
+			{
+				"text": "love",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatlove.png'>"
+			},
+			{
+				"text": "kissheart",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatkissheart.png'>"
+			},
+			{
+				"text": "snuggle",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatsnuggle.png'>"
+			},
+			{
+				"text": "comfyuee",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/comfyuee.png'>"
+			},
+			{
+				"text": "comfyslep",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/comfyslep.png'>"
+			},
+			{
+				"text": "comfynight",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/comfynight.png'>"
+			},
+			{
+				"text": "comfysweat",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatcomfysweat.png'>"
+			},
+			{
+				"text": "comfy",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatcomfy.png'>"
+			},
+			{
+				"text": "comftears",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatcomftears.png'>"
+			},
+			{
+				"text": "facepalm",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatfacepalm.png'>"
+			},
+			{
+				"text": "0_0",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcat0_0.png'>"
+			},
+			{
+				"text": "angry",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatangry.png'>"
+			},
+			{
+				"text": "blush",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatblush.png'>"
+			},
+			{
+				"text": "coffee",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatcoffee.png'>"
+			},
+			{
+				"text": "cry",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatcry.png'>"
+			},
+			{
+				"text": "dead",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatdead.png'>"
+			},
+			{
+				"text": "died",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatdied.png'>"
+			},
+			{
+				"text": "disturbed",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatdisturbed.png'>"
+			},
+			{
+				"text": "fearful",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatfearful.png'>"
+			},
+			{
+				"text": "fingerguns",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatfingerguns.png'>"
+			},
+			{
+				"text": "flip",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatflip.png'>"
+			},
+			{
+				"text": "flower",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatflower.png'>"
+			},
+			{
+				"text": "gay",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatgay.png'>"
+			},
+			{
+				"text": "googlycry",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatgooglycry.png'>"
+			},
+			{
+				"text": "neutral",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatneutral.png'>"
+			},
+			{
+				"text": "openmouth",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatopenmouth.png'>"
+			},
+			{
+				"text": "sadreach",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatsadreach.png'>"
+			},
+			{
+				"text": "scared",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatscared.png'>"
+			},
+			{
+				"text": "nomblobcat",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatnomblobcat.png'>"
+			},
+			{
+				"text": "presentred",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatpresentred.png'>"
+			},
+			{
+				"text": "read",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatread.png'>"
+			},
+			{
+				"text": "sipsweat",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatsipsweat.png'>"
+			},
+			{
+				"text": "snapped",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatsnapped.png'>"
+			},
+			{
+				"text": "think",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatthink.png'>"
+			},
+			{
+				"text": "triumph",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcattriumph.png'>"
+			},
+			{
+				"text": "umm",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatumm.png'>"
+			},
+			{
+				"text": "verified",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatverified.png'>"
+			},
+			{
+				"text": "box",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatbox.png'>"
+			},
+			{
+				"text": "caged",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatcaged.png'>"
+			},
+			{
+				"text": "googlytrash",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatgooglytrash.png'>"
+			},
+			{
+				"text": "headphones",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatheadphones.png'>"
+			},
+			{
+				"text": "highfive",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcathighfive.png'>"
+			},
+			{
+				"text": "melt",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatmelt.png'>"
+			},
+			{
+				"text": "meltthumb",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatmeltthumb.png'>"
+			},
+			{
+				"text": "notlikethis",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatnotlikethis.png'>"
+			},
+			{
+				"text": "saitama",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatsaitama.png'>"
+			},
+			{
+				"text": "yandere",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatyandere.png'>"
+			},
+			{
+				"text": "peek2",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatpeek2.png'>"
+			},
+			{
+				"text": "peekaboo",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatpeekaboo.png'>"
+			},
+			{
+				"text": "photo",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatphoto.png'>"
+			},
+			{
+				"text": "attentionreverse",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/ablobcatattentionreverse.png'>"
+			},
+			{
+				"text": "reachrev",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/ablobcatreachrev.png'>"
+			},
+			{
+				"text": "wave",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/ablobcatwave.png'>"
+			},
+			{
+				"text": "alt",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatalt.png'>"
+			},
+			{
+				"text": "police",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatpolice.png'>"
+			},
+			{
+				"text": "shocked",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatshocked.png'>"
+			},
+			{
+				"text": "rainbow",
+				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/ablobcatrainbow.png'>"
+			}
+			{
+				"text": "bounce",
+				"icon": "<img src='https://raw.githubusercontent.com/infinitesum/Twikoo-blobcat-emoji/main/Blob/A_BlobCat_BounceFast.png'>"
+			}
+		]
+	}
+}
