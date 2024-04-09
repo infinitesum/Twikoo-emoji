@@ -1,0 +1,167 @@
+{
+    "aru": {
+        "type": "image",
+        "container": [
+            {
+                "text": "azukisan-001",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/001.png'>"
+            },
+            {
+                "text": "azukisan-002",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/002.png'>"
+            },
+            {
+                "text": "azukisan-003",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/003.png'>"
+            },
+            {
+                "text": "azukisan-004",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/004.png'>"
+            },
+            {
+                "text": "azukisan-005",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/005.png'>"
+            },
+            {
+                "text": "azukisan-006",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/006.png'>"
+            },
+            {
+                "text": "azukisan-007",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/007.png'>"
+            },
+            {
+                "text": "azukisan-008",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/008.png'>"
+            },
+            {
+                "text": "azukisan-009",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/009.png'>"
+            },
+            {
+                "text": "azukisan-010",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/010.png'>"
+            },
+            {
+                "text": "azukisan-011",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/011.png'>"
+            },
+            {
+                "text": "azukisan-012",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/012.png'>"
+            },
+            {
+                "text": "azukisan-013",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/013.png'>"
+            },
+            {
+                "text": "azukisan-014",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/014.png'>"
+            },
+            {
+                "text": "azukisan-015",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/015.png'>"
+            },
+            {
+                "text": "azukisan-016",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/016.png'>"
+            },
+            {
+                "text": "azukisan-017",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/017.png'>"
+            },
+            {
+                "text": "azukisan-018",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/018.png'>"
+            },
+            {
+                "text": "azukisan-019",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/019.png'>"
+            },
+            {
+                "text": "azukisan-020",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/020.png'>"
+            },
+            {
+                "text": "azukisan-021",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/021.png'>"
+            },
+            {
+                "text": "azukisan-022",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/022.png'>"
+            },
+            {
+                "text": "azukisan-023",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/023.png'>"
+            },
+            {
+                "text": "azukisan-024",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/024.png'>"
+            },
+            {
+                "text": "azukisan-025",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/025.png'>"
+            },
+            {
+                "text": "azukisan-026",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/026.png'>"
+            },
+            {
+                "text": "azukisan-027",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/027.png'>"
+            },
+            {
+                "text": "azukisan-028",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/028.png'>"
+            },
+            {
+                "text": "azukisan-029",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/029.png'>"
+            },
+            {
+                "text": "azukisan-030",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/030.png'>"
+            },
+            {
+                "text": "azukisan-031",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/031.png'>"
+            },
+            {
+                "text": "azukisan-032",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/032.png'>"
+            },
+            {
+                "text": "azukisan-033",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/033.png'>"
+            },
+            {
+                "text": "azukisan-034",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/034.png'>"
+            },
+            {
+                "text": "azukisan-035",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/035.png'>"
+            },
+            {
+                "text": "azukisan-036",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/036.png'>"
+            },
+            {
+                "text": "azukisan-037",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/037.png'>"
+            },
+            {
+                "text": "azukisan-038",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/038.png'>"
+            },
+            {
+                "text": "azukisan-039",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/039.png'>"
+            },
+            {
+                "text": "azukisan-040",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/040.png'>"
+            }
+        ]
+    }
+}
