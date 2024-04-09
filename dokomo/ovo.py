@@ -21,7 +21,8 @@ def generate_owo_json(directory_path="."):
     for filename in filenames:
         number = extract_number(filename)
         if number is not None:
-            item = {"text": f"dokomo-{number}", "icon": os.path.join(directory_path, filename)}
+            img_src = f"https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-{number}.png"
+            item = {"text": f"dokomo-{number}", "icon": f"<img src='{img_src}'>"}
             data.append(item)
     with open(os.path.join(directory_path, "owo.json"), "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False)
