@@ -1,5 +1,5 @@
 {
-	"blobcatcopy": {
+	"Blobcat": {
 		"type": "image",
 		"container": [
 			{
@@ -9,6 +9,22 @@
 			{
 				"text": "heartbroken",
 				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/ablobcatheartbroken.png'>"
+			},
+			{
+				"text": "reeee",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/herwhiskers/blogPicBed@main/blobcat-angryshaking.gif'>"
+			},
+			{
+				"text": "code",
+				"icon": "<img src='https://raw.githubusercontent.com/infinitesum/Twikoo-blobcat-emoji/main/Blob/A_BlobCat_Code.png'>"
+			},
+			{
+				"text": "sweat",
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/herwhiskers/blogPicBed@main/ablobcatknitsweats.png'>"
+			},
+			{
+				"text": "nervous",
+				"icon": "<img src='https://raw.githubusercontent.com/infinitesum/Twikoo-blobcat-emoji/main/Blob/A_BlobCat_Nervous.png'>"
 			},
 			{
 				"text": "heart",
