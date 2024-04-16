@@ -27,6 +27,14 @@
 				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatkissheart.png'>"
 			},
 			{
+    "text": "acry",
+    "icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/ablobcatcry.png'>"
+      },
+      {
+        "text": "adead",
+        "icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/ablobcatdead.png'>"
+   },
+			{
 				"text": "snuggle",
 				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatsnuggle.png'>"
 			},
@@ -58,6 +66,10 @@
 				"text": "facepalm",
 				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatfacepalm.png'>"
 			},
+			{
+        "text": "dizzy",
+        "icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcatdizzy.png'>"
+      },
 			{
 				"text": "0_0",
 				"icon": "<img src='https://raw.weekdaycare.cn/raw/twikoo-blobcat/main/blobs/blobcat0_0.png'>"
