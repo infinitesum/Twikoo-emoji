@@ -260,11 +260,11 @@
 			},
 			{
 				"text": "reeee",
-				"icon": "<img src='https://raw.githubusercontent.com/infinitesum/Twikoo-blobcat-emoji/main/Blob/A_BlobCat_REEEE.png'>"
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/A_BlobCat_REEEE.png'>"
 			},
 			{
 				"text": "code",
-				"icon": "<img src='https://raw.githubusercontent.com/infinitesum/Twikoo-blobcat-emoji/main/Blob/A_BlobCat_Code.png'>"
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/A_BlobCat_Code.png'>"
 			},
 			{
 				"text": "sweat",
@@ -272,7 +272,7 @@
 			},
 			{
 				"text": "nervous",
-				"icon": "<img src='https://raw.githubusercontent.com/infinitesum/Twikoo-blobcat-emoji/main/Blob/A_BlobCat_Nervous.png'>"
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/A_BlobCat_Nervous.png'>"
 			},
 			{
 				"text": "aww",
@@ -280,7 +280,7 @@
 			},
 			{
 				"text": "bounce",
-				"icon": "<img src='https://raw.githubusercontent.com/infinitesum/Twikoo-blobcat-emoji/main/Blob/bouncefast.png'>"
+				"icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/bouncefast.png'>"
 			}
 		]
 	}
