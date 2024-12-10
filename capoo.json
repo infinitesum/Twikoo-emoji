@@ -3,6 +3,54 @@
         "type": "image",
         "container": [
             {
+                "text": "second",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/second.gif'>"
+            },
+            {
+                "text": "poke",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/poke.gif'>"
+            },
+            {
+                "text": "spare",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/spare.gif'>"
+            },
+            {
+                "text": "whoa",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/whoa.gif'>"
+            },
+            {
+                "text": "admire",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/admire.gif'>"
+            },
+            {
+                "text": "butt",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/butt.gif'>"
+            },
+            {
+                "text": "friend",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/friend.gif'>"
+            },
+            {
+                "text": "rain",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/rain.gif'>"
+            },
+            {
+                "text": "love3",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/love3.gif'>"
+            },
+            {
+                "text": "write",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/write.gif'>"
+            },
+            {
+                "text": "whimper",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/whimper.gif'>"
+            },
+            {
+                "text": "love2",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/love2.gif'>"
+            },
+            {
                 "text": "work",
                 "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/capoo/work.gif'>"
             },
