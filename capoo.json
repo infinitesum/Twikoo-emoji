@@ -1,0 +1,67 @@
+{
+    "capoo": {
+        "type": "image",
+        "container": [
+            {
+                "text": "work",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/capoo/work.gif'>"
+            },
+            {
+                "text": "sleep",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/capoo/sleep.gif'>"
+            },
+            {
+                "text": "shocked",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/capoo/shocked.gif'>"
+            },
+            {
+                "text": "shake",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/capoo/shake.gif'>"
+            },
+            {
+                "text": "question",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/capoo/question.gif'>"
+            },
+            {
+                "text": "love",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/capoo/love.gif'>"
+            },
+            {
+                "text": "kudos",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/capoo/kudos.gif'>"
+            },
+            {
+                "text": "intrigued",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/capoo/intrigued.gif'>"
+            },
+            {
+                "text": "happynow",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/capoo/happynow.gif'>"
+            },
+            {
+                "text": "happy",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/capoo/happy.gif'>"
+            },
+            {
+                "text": "fake",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/capoo/fake.gif'>"
+            },
+            {
+                "text": "cry",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/capoo/cry.gif'>"
+            },
+            {
+                "text": "color",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/capoo/color.gif'>"
+            },
+            {
+                "text": "catch",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/capoo/catch.gif'>"
+            },
+            {
+                "text": "ahhh",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/capoo/ahhh.gif'>"
+            }
+        ]
+    }
+}
