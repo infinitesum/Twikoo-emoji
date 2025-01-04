@@ -3,6 +3,10 @@
         "type": "image",
         "container": [
             {
+                "text": "nobeko-fight",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/nobeko/nobeko-fight.png'>"
+            },
+            {
                 "text": "nobeko-zzz",
                 "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/nobeko/nobeko-zzz.png'>"
             },
