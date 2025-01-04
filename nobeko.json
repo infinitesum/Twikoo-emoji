@@ -3,6 +3,22 @@
         "type": "image",
         "container": [
             {
+                "text": "nobeko-hope",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/nobeko/nobeko-hope.png'>"
+            },
+            {
+                "text": "nobeko-backoff",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/nobeko/nobeko-backoff.gif'>"
+            },
+            {
+                "text": "nobeko-sad",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/nobeko/nobeko-sad.gif'>"
+            },
+            {
+                "text": "nobeko-hopeful",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/nobeko/nobeko-hopeful.png'>"
+            },
+            {
                 "text": "nobeko-fight",
                 "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/nobeko/nobeko-fight.png'>"
             },
